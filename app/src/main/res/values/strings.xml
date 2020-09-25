@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PetGram</string>
+
+    <string name="nombre_cardview">Nombre</string>
+    <string name="likes_cardview">0</string>
+    <string name="n_cardView">Nombre</string>
+
+    <string name="menu_favoritos">Favoritos</string>
+
+</resources>
